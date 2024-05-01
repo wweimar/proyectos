@@ -8,19 +8,20 @@ body {
     background-image: url("fondo2.jpg");
     background-size: 800px;
   }
+
   .container1 {
     background-color: #000000;
     opacity: 0.9;
-    margin-left: 200px;
-    margin-right: 600px;
+    width: 90%;
+    margin: auto;
   }
   .container {
     background-color: #000000;
     opacity: 0.9;
-    margin-right: 8%;
-    margin-left: 200px;
-    padding-right: 100px;
+    width: 90%;
+    margin: auto;
   }
+
   h4 {
     color: aliceblue;
   }
